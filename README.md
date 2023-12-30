@@ -1,4 +1,4 @@
-# Line Robot
+# Line Following Robot
 Purpose of this project was to create a line following robot by using PIC24F32KA302, Breadboard Circuit, PICkit3 Microcontroller, MPLab X Programming Software and Color Sensors.
 >
 Demo: https://youtu.be/6PEmiJkvyTk
